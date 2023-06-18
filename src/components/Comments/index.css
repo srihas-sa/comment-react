@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.outer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 100%;
+  width: 100%;
+}
+.margin {
+  margin-bottom: 15px;
+}
+.button {
+  background-color: #0284c7;
+  color: white;
+  padding: 8px;
+}
+.padd {
+  padding: 30px;
+}
